@@ -7,6 +7,7 @@ This project analyzes machine temperature time-series data to detect abnormal be
 - Convert timestamp
 - Time series visualization
 - Rolling mean analysis
+- Standard deviation threshold (+/- 3 sigma)
 
 ## Tools Used
 - Python
