@@ -9,7 +9,8 @@ This project analyzes machine temperature time-series data to detect abnormal be
 - Rolling mean analysis
 - Standard deviation threshold (+/- 3 sigma)
 - Rolling Standard dev threshold
-- Isolation Forest anomaly detection model
+- Isolation Forest anomaly detection model using basic Features
+- Isolation Forest anomaly detection using temporal Features
 
 ## Tools Used
 - Python
