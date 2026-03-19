@@ -12,6 +12,7 @@ This project analyzes machine temperature time-series data to detect abnormal be
 - Isolation Forest anomaly detection model using basic Features
 - Isolation Forest anomaly detection using temporal Features (lag, rate of change)
 - Evaluated Isolation Forest models with basic and temporal features by comparing anomaly counts, analyzing the differences and visualizing detected anomaly patterns.
+- Evaluated Isolation Forest Model(basic vs temporal) using time-series plots and distribution analysis.
 
 ## Tools Used
 - Python
